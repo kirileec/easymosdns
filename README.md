@@ -1,6 +1,12 @@
-# EasyMosdns v3.0
+# EasyMosdns v3.1
 
 基于Mosdns的精准DNS分流策略，仅需几分钟即可搭建一台支持ECS的无污染DNS服务器。<br />
+
+## Fork 更新
+
+- 使用mosdns v5版本
+- 增加mosdns一键安装脚本
+- 其他调整
 
 ## About Mosdns
 
